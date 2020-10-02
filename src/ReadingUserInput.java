@@ -18,13 +18,11 @@ public class ReadingUserInput {
                 counter++;
                 sum += number;
 
-
         } else {
                 System.out.println("Invalid number entered.");
             }
             scanner.nextLine(); //handle end of line (enter key);
     }
-
         System.out.println("Sum = " + sum);
 
        scanner.close();

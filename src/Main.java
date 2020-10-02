@@ -12,8 +12,6 @@ public class Main {
         if(hasNextInt) {
             int birthYear = scanner.nextInt();
 
-
-
             System.out.println("Enter your name, please: ");
 
 
